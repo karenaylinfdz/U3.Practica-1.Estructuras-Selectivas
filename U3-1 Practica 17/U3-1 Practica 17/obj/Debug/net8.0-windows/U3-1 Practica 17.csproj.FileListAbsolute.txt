@@ -1,0 +1,16 @@
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\bin\Debug\net8.0-windows\U3-1 Practica 17.exe
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\bin\Debug\net8.0-windows\U3-1 Practica 17.deps.json
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\bin\Debug\net8.0-windows\U3-1 Practica 17.runtimeconfig.json
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\bin\Debug\net8.0-windows\U3-1 Practica 17.dll
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\bin\Debug\net8.0-windows\U3-1 Practica 17.pdb
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3_1_Practica_17.Form1.resources
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.csproj.GenerateResource.cache
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.AssemblyInfoInputs.cache
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.AssemblyInfo.cs
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.csproj.CoreCompileInputs.cache
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.dll
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\refint\U3-1 Practica 17.dll
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.pdb
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\U3-1 Practica 17.genruntimeconfig.cache
+C:\Users\elfoc\source\repos\U3-1 Practica 17\U3-1 Practica 17\obj\Debug\net8.0-windows\ref\U3-1 Practica 17.dll
