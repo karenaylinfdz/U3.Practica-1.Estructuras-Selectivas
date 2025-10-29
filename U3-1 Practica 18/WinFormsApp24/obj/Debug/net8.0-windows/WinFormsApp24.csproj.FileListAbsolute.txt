@@ -1,0 +1,17 @@
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\bin\Debug\net8.0-windows\WinFormsApp24.exe
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\bin\Debug\net8.0-windows\WinFormsApp24.deps.json
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\bin\Debug\net8.0-windows\WinFormsApp24.runtimeconfig.json
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\bin\Debug\net8.0-windows\WinFormsApp24.dll
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\bin\Debug\net8.0-windows\WinFormsApp24.pdb
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.Form1.resources
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.csproj.GenerateResource.cache
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.AssemblyInfoInputs.cache
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.AssemblyInfo.cs
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.csproj.CoreCompileInputs.cache
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.dll
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\refint\WinFormsApp24.dll
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.pdb
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.genruntimeconfig.cache
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\ref\WinFormsApp24.dll
+C:\Users\elfoc\source\repos\WinFormsApp24\WinFormsApp24\obj\Debug\net8.0-windows\WinFormsApp24.Properties.Resources.resources
